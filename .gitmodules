@@ -12,5 +12,5 @@
 	branch = main
 [submodule "marshal"]
 	path = marshal
-	url = https://github.com/futureverse/marhal
+	url = https://github.com/futureverse/marshal
 	branch = main
