@@ -10,3 +10,7 @@
 	path = futureverse
 	url = https://github.com/futureverse/futureverse
 	branch = main
+[submodule "marshal"]
+	path = marshal
+	url = https://github.com/futureverse/marhal
+	branch = main
