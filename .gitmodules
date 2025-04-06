@@ -5,7 +5,7 @@
 [submodule "future"]
 	path = future
 	url = https://github.com/futureverse/future
-	branch = rc1
+	branch = rc2
 [submodule "future.tools"]
 	path = future.tools
 	url = https://github.com/futureverse/future.tools
