@@ -5,6 +5,7 @@
 [submodule "future"]
 	path = future
 	url = https://github.com/futureverse/future
+	branch = cran/1.34.0
 [submodule "future.tools"]
 	path = future.tools
 	url = https://github.com/futureverse/future.tools
