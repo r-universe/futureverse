@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/futureverse/futureverse.r-universe.dev
 	branch = HEAD
+[submodule "doFuture.tests.extra"]
+	path = doFuture.tests.extra
+	url = https://github.com/futureverse/doFuture.tests.extra
+	branch = main
 [submodule "future.tools"]
 	path = future.tools
 	url = https://github.com/futureverse/future.tools
