@@ -14,7 +14,3 @@
 	path = marshal
 	url = https://github.com/futureverse/marshal
 	branch = main
-[submodule "parallelly"]
-	path = parallelly
-	url = https://github.com/futureverse/parallelly
-	branch = master
