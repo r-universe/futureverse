@@ -18,7 +18,3 @@
 	path = marshal
 	url = https://github.com/futureverse/marshal
 	branch = main
-[submodule "progressify"]
-	path = progressify
-	url = https://github.com/futureverse/progressify
-	branch = develop
