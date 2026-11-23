@@ -6,6 +6,10 @@
 	path = doFuture.tests.extra
 	url = https://github.com/futureverse/doFuture.tests.extra
 	branch = main
+[submodule "future.mizu"]
+	path = future.mizu
+	url = https://github.com/futureverse/future.mizu
+	branch = main
 [submodule "future.p2p"]
 	path = future.p2p
 	url = https://github.com/futureverse/future.p2p
